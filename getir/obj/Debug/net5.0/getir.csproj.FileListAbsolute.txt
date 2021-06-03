@@ -1,0 +1,5 @@
+C:\Users\augur\Desktop\getir\obj\Debug\net5.0\getir.csprojAssemblyReference.cache
+C:\Users\augur\Desktop\getir\obj\Debug\net5.0\getir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augur\Desktop\getir\obj\Debug\net5.0\getir.AssemblyInfoInputs.cache
+C:\Users\augur\Desktop\getir\obj\Debug\net5.0\getir.AssemblyInfo.cs
+C:\Users\augur\Desktop\getir\obj\Debug\net5.0\getir.csproj.CoreCompileInputs.cache
